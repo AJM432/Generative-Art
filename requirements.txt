@@ -1,7 +1,11 @@
-Install these libraries with the pip command
+Windows: Install these libraries with the pip command
+Max: Use the pip3 command
+
+Example:
+pip install tqdm
+pip3 install tqdm
 
 tqdm
 pillow
 numpy
 pygame
-colorsys
