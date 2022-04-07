@@ -1,10 +1,3 @@
-# File name: image_to_3d_gif_maker.py
-# Description: generates gif of 3d object rotating in space given an image as input
-# Author Name: Alvin Matthew
-# Date Created: Tuesday, April 7, 2022
-# Last Modified: Wednesday, April 8, 2022
-# Instructor Name: Mr Tauro
-
 import pygame
 import numpy as np
 import os
