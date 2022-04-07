@@ -1,0 +1,7 @@
+Install these libraries with the pip command
+
+tqdm
+Pillow
+numpy
+pygame
+colorsys
