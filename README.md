@@ -3,7 +3,6 @@
 2. Extract the zip file
 3. Open terminal/cmd depending on your OS and install the libraries indicated in the requirements.txt file in this repo
 5. In terminal change the working directory to the repo folder and run "python main.py" on Windows or "python3 main.py" on macOS
-6. 
 # Examples
 
 # 2d Image
