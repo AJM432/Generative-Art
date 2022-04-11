@@ -1,4 +1,4 @@
-# Installation
+# Instructions
 1. Download the repo by clicking the green code button and downloading the zip file.
 2. Extract the zip file
 3. Open terminal/cmd depending on your OS and install the libraries indicated in the requirements.txt file in this repo
